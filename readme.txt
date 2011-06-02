@@ -1,16 +1,11 @@
-Debug Build
-+++++++++++
+# Debug Build
 
 We are proud to offer debug build for PhoneGap Build users. This service entails users to debug, and interactively modify the application during runtime; this new addition offers similar functionality to those found in Firebug or Google Chrome Inspector which serve as an indispensable tool to developers working on web based projects and now debug build provides the same benefits for PhoneGap developers.
 
-
-
-Configuring A Project to use Build
-==================================
+## Configuring A Project to use Build
 
 1.) New Application
 
-	
 
 
 2.) Existing Application
