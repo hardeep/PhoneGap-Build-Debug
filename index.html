@@ -14,12 +14,12 @@
             function onDeviceReady()
             {
                 // do nothing
-                console.log('Device is now ready');
+                console.log('手機在可用狀態');
             }
 
             var checkBugs = function()
             {
-                navigator.notification.alert('Ya! No more bugs', null, 'Notification');
+                navigator.notification.alert('太好了! No more bugs', null, 'Notification');
             }
 
             $(document).ready(function()
@@ -43,7 +43,7 @@
     <body onload="onLoad()">
         <div data-role="page">
             <div data-role="header">
-                <h1>Hello Debugging World</h1>
+                <h1>除錯測試</h1>
             </div>
             <div data-role="content">
                 <input type="button" id="buh_button" value="Check For Bugs">
