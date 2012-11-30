@@ -14,6 +14,12 @@
             function onDeviceReady()
             {
                 // do nothing
+
+
+
+
+
+
                 console.log('Device is now ready');
             }
 
